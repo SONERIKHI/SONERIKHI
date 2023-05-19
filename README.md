@@ -1,12 +1,6 @@
 ### Hi there 👋
 
 **SONERIKHI/SONERIKHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<HTML>
-<HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
-<BODY>
-  <IMG SRC="WhatsApp Video 2023-05-19 at 16.39.05.gif">
-</BODY>
-</HTML>
 
 # 💫 About Me:
 HI, MYSELF SONIA RIKHI<br>CURRENTLY PURSUING P.G. DIPLOMA(DATA SCIENCE)<br>ALTHOUGH PURSUED M.SC(MATEMATICS),M.Ed<br><br>I LOVE TO LEARN NEW CONCEPTS.<br>I LOVE TO TRAVEL.<br>I LOVE TO TASTE DIFFERENT FOOD(LOCAL FOOD OF AREA IN WHICH I VISIT)<br><br>MY PHILOSOPHY OF LIFE:-<br>NOTHING IS IMPOSSIBLE ,THE WORD ITSELF SAYS I'M POSSIBLE
