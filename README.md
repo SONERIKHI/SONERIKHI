@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **SONERIKHI/SONERIKHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="right" alt="coding" widht="200" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1102230%2Fscreenshots%2F3308591%2Fdata_analytics.gif&tbnid=x-LjpuZo5Pcn2M&vet=12ahUKEwjDqbeWio7_AhWK53MBHahjBtwQMygLegUIARD2AQ..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F3308591-Data-Analytics-dashboard-design-for-complex-data&docid=VZnYhBEeCauUqM&w=800&h=600&q=dribbble%20data%20science%20gif&hl=en-GB&ved=2ahUKEwjDqbeWio7_AhWK53MBHahjBtwQMygLegUIARD2AQ">
+<img align="right" alt="coding" widht="200" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1102230%2Fscreenshots%2F3308591%2Fdata_analytics.gif&tbnid=x-LjpuZo5Pcn2M&vet=12ahUKEwjDqbeWio7_AhWK53MBHahjBtwQMygLegUIARD2AQ..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F3308591-Data-Analytics-dashboard-design-for-complex-data&docid=VZnYhBEeCauUqM&w=800&h=600&q=dribbble%20data%20science%20gif&hl=en-GB&ved=2ahUKEwjDqbeWio7_AhWK53MBHahjBtwQMygLegUIARD2AQ.gif">
 # 💫 About Me:
 HI, MYSELF SONIA RIKHI<br>CURRENTLY PURSUING P.G. DIPLOMA(DATA SCIENCE)<br>ALTHOUGH PURSUED M.SC(MATEMATICS),M.Ed<br><br>I LOVE TO LEARN NEW CONCEPTS.<br>I LOVE TO TRAVEL.<br>I LOVE TO TASTE DIFFERENT FOOD(LOCAL FOOD OF AREA IN WHICH I VISIT)<br><br>MY PHILOSOPHY OF LIFE:-<br>NOTHING IS IMPOSSIBLE ,THE WORD ITSELF SAYS I'M POSSIBLE.
 
