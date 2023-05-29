@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="coding" widht="200" src="">
+<img align="right" alt="coding" widht="200" src="enlightenment-bulb.gif">
 
 **SONERIKHI/SONERIKHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
