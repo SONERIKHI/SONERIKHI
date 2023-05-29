@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img width="481" alt="image" src="https://github.com/SONERIKHI/SONERIKHI/assets/112720079/bd1e9733-c70f-4535-9504-45523718aa35">
+
 
 <img align="right" alt="coding" widht="200" src="enlightenment-bulb.gif">
 
