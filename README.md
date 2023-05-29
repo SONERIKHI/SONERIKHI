@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 **SONERIKHI/SONERIKHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img width="319" alt="image" src="https://github.com/SONERIKHI/SONERIKHI/assets/112720079/e240f4d1-ae7e-4fad-a1a2-41a8d177319d.gif">
 
 # 💫 About Me:
 HI, MYSELF SONIA RIKHI<br>CURRENTLY PURSUING P.G. DIPLOMA(DATA SCIENCE)<br>ALTHOUGH PURSUED M.SC(MATEMATICS),M.Ed<br><br>I LOVE TO LEARN NEW CONCEPTS.<br>I LOVE TO TRAVEL.<br>I LOVE TO TASTE DIFFERENT FOOD(LOCAL FOOD OF AREA IN WHICH I VISIT)<br><br>MY PHILOSOPHY OF LIFE:-<br>NOTHING IS IMPOSSIBLE ,THE WORD ITSELF SAYS I'M POSSIBLE.
